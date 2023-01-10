@@ -5,4 +5,4 @@ I'd like to learn how to contribute back to Bioinformatics projects, specificall
 
 I'm looking to collaborate more on improving documentation for a variety of projects.
 
-You can message my via Twitter (@mrwillbarnz), via my website will-barnard.me.uk.
+You can message my via Twitter (@mrwillbarnz).
