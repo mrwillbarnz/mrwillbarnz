@@ -5,4 +5,4 @@ I'd like to learn how to contribute back to Bioinformatics projects, specificall
 
 I'm looking to collaborate more on improving documentation for a variety of projects.
 
-I am not longer on Twitter/X, however you can follow me @mrwillbarnz@fosstodon.org
+I am not longer on Twitter/X, however you can follow me ![@Fosstodon](https://fosstodon.org/@mrwillbarnz)
